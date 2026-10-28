@@ -6,6 +6,8 @@ The scorer does **not** run your training code. It compiles `submission.zip` (`a
 
 **Submit one notebook.** Same pattern as the official starter and the budget-fit samples.
 
+How to improve the agent after the first zip: **[DEVELOPMENT.md](DEVELOPMENT.md)** (measurement notebook, failure buckets, skills, budget retune).
+
 ## Notebook to run
 
 `src/sample/gemma-4-harness-fixed-single-agent.ipynb`
